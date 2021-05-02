@@ -1,0 +1,202 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.1f1 (77a89f25062f) revision 7841951'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Enterprise; OS build 19042.928; Version 2009; 64bit' Language: 'fr' Physical Memory: 16322 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/test/Documents/GitHub/jam/Fruits
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+62457
+Successfully changed project path to: C:/Users/test/Documents/GitHub/jam/Fruits
+C:/Users/test/Documents/GitHub/jam/Fruits
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 21.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.1f1 (77a89f25062f)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/test/Documents/GitHub/jam/Fruits/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 (ID=0x2484)
+    Vendor:   
+    VRAM:     8043 MB
+    Driver:   27.21.14.6627
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56460
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001557 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 22.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.845 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000572 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.720 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1125 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.4 MB.
+System memory in use after: 57.5 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1568.
+Total: 1.806000 ms (FindLiveObjects: 0.242100 ms CreateObjectMapping: 0.055300 ms MarkObjects: 1.426600 ms  DeleteObjects: 0.081000 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/BarProps/Materials/SquareTable.mat
+  artifactKey: Guid(f06e6421f23d268478656e72db1acfc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BarProps/Materials/SquareTable.mat using Guid(f06e6421f23d268478656e72db1acfc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4229e8ab3f01be3597278687575fc88c') in 0.112371 seconds
+  Import took 0.114414 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/BarProps/Materials/RoundTable.mat
+  artifactKey: Guid(5334ef093f90ed144893c4368f805d29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BarProps/Materials/RoundTable.mat using Guid(5334ef093f90ed144893c4368f805d29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20f748ab5c8c435dc2cc06b8878869fa') in 0.023957 seconds
+  Import took 0.026232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/BarProps/Materials/WoodenSeatBacked.mat
+  artifactKey: Guid(ded45c8b071b8d84fb4432210580f003) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BarProps/Materials/WoodenSeatBacked.mat using Guid(ded45c8b071b8d84fb4432210580f003) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '895fd3ef711c4b9c024992a21f70feb2') in 0.025405 seconds
+  Import took 0.027540 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/BarProps/Materials/WoodenStoolBacked_Wood.mat
+  artifactKey: Guid(9d6aed47bacb33a47ab9341aa788ae69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BarProps/Materials/WoodenStoolBacked_Wood.mat using Guid(9d6aed47bacb33a47ab9341aa788ae69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3e8f560adefb049f1dc4be57aa66969') in 0.024640 seconds
+  Import took 0.026967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/BarProps/Materials/OldSchoolBarstoolNoBack.mat
+  artifactKey: Guid(36c0804aa51b7eb46a92520bfe3381c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BarProps/Materials/OldSchoolBarstoolNoBack.mat using Guid(36c0804aa51b7eb46a92520bfe3381c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b851401b42d2c865bc047797aba5f490') in 0.022885 seconds
+  Import took 0.025899 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/BarProps/Materials/TallRoundTable.mat
+  artifactKey: Guid(14d7763c4f455e34a8047dbf2346c3e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BarProps/Materials/TallRoundTable.mat using Guid(14d7763c4f455e34a8047dbf2346c3e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60a2e57188db6dc4372867de1cc8b312') in 0.025111 seconds
+  Import took 0.027973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/BarProps/Materials/TallSquareTable.mat
+  artifactKey: Guid(ad2901fd0821dfa43883c7f7ba8217fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BarProps/Materials/TallSquareTable.mat using Guid(ad2901fd0821dfa43883c7f7ba8217fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a18db1232683a55ad8b3eae274cc06fc') in 0.022681 seconds
+  Import took 0.025043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/BarProps/Materials/OldShoolBarstoolBacked.mat
+  artifactKey: Guid(9b8770c031829dc4a957788a3dbfe8de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BarProps/Materials/OldShoolBarstoolBacked.mat using Guid(9b8770c031829dc4a957788a3dbfe8de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56657d22b1bd562bfafd511ecf662a0b') in 0.023248 seconds
+  Import took 0.025608 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/BarProps/Materials
+  artifactKey: Guid(1b13da8b727c4b1468c78eec9c112ef9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BarProps/Materials using Guid(1b13da8b727c4b1468c78eec9c112ef9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '601a7127bed8abfe3cd523d020854b25') in 0.005727 seconds
+  Import took 0.007728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/BarProps/Materials/OldShoolBarstoolBacked.mat
+  artifactKey: Guid(9b8770c031829dc4a957788a3dbfe8de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BarProps/Materials/OldShoolBarstoolBacked.mat using Guid(9b8770c031829dc4a957788a3dbfe8de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56657d22b1bd562bfafd511ecf662a0b') in 0.022172 seconds
+  Import took 0.024723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/BarProps/Materials/WoodenSwivelStoolBacked.mat
+  artifactKey: Guid(5f8d9c141e55f0f4ca0006942690fd03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BarProps/Materials/WoodenSwivelStoolBacked.mat using Guid(5f8d9c141e55f0f4ca0006942690fd03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e85e4d9f439f3a3e18d2b1183e6dbe29') in 0.020957 seconds
+  Import took 0.023244 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/BarProps/Materials/WoodenSwivelStoolNoBack_001.mat
+  artifactKey: Guid(cadeb9496adae7d4fb44b2309aad0287) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BarProps/Materials/WoodenSwivelStoolNoBack_001.mat using Guid(cadeb9496adae7d4fb44b2309aad0287) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf62b1f38ca9670d231fc50901a23d24') in 0.021631 seconds
+  Import took 0.023897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002259 seconds.
+  path: Assets/BarProps/Materials/WoodenSwivelStoolNoBack_001.mat
+  artifactKey: Guid(cadeb9496adae7d4fb44b2309aad0287) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BarProps/Materials/WoodenSwivelStoolNoBack_001.mat using Guid(cadeb9496adae7d4fb44b2309aad0287) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf62b1f38ca9670d231fc50901a23d24') in 0.022486 seconds
+  Import took 0.024903 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000526 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.652 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1120 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.7 MB.
+System memory in use after: 60.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1611.
+Total: 1.443200 ms (FindLiveObjects: 0.132700 ms CreateObjectMapping: 0.036500 ms MarkObjects: 1.230700 ms  DeleteObjects: 0.042500 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
